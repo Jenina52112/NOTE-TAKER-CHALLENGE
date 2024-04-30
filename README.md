@@ -1,6 +1,6 @@
 
 # Note Taker Challenge    
-
+![alt text](image.png)
 
 ## Table of Contents
 - [Description](#description)
